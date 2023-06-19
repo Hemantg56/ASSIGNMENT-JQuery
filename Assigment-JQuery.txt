@@ -1,0 +1,21 @@
+JQuery Assignment
+Module (JQuery Basic, Effects & Advanced) – 5
+
+1.What is jQuery?
+Ans. JQuery is a Java-Script FrameWrok.
+     JQuery is a lightweight, "write less, do more", JavaScript library.
+
+
+2.How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery, JQuery Animation?
+Ans. The css() method sets or returns one or more style properties for the selected elements.
+     addClass() - Adds one or more classes to the selected elements · removeClass() - Removes one or more classes from the selected elements 
+     The jQuery animate() method is used to create custom animations. Syntax: $(selector).animate({params},speed,callback)
+
+3.How to create slider with animation?
+Ans. Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. 
+     Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+4.Event bubbling tickling example 
+Ans. Create by Visual Studio Code.
+
+
